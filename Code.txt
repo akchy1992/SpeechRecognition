@@ -73,9 +73,3 @@ with mic as source:
 #        print("Sphinx could not understand audio")
 #    except sr.RequestError as e:
 #        print("Sphinx error; {0}".format(e))
-
-
-
-//https://dev30796.service-now.com/nav_to.do?uri=%2Fincident_list.do%3Fsysparm_query%3D%26sysparm_first_row%3D1%26sysparm_view%3D
-
-//uname- admin  pwd- Snow@123
